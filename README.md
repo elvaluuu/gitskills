@@ -1,2 +1,2 @@
 # gitskills from github to local repository.
-# a new brand is quick.
+# Creating a new branch is quick AND simple.
